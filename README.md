@@ -34,4 +34,3 @@ This repository includes my Flutter training exercises under NTI supervision, wh
 
 <img width="461" height="831" alt="Screenshot 2025-07-31 230246" src="https://github.com/user-attachments/assets/e6ca67ea-f2ab-4cd2-aaec-dd0fe624bb23" />
 
-\
