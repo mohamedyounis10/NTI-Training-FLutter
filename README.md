@@ -11,10 +11,10 @@ This repository includes my Flutter training exercises under NTI supervision, wh
 - Converting ready-made UI designs into working code
 - Understanding layout widgets (Row, Column, Stack, Container, etc.)
 - Handling basic form inputs and user interface styling
-- Practicing multiple UI layouts through three sections in /lib:
-  - `ui_1`
-  - `ui_2`
-  - `ui_3`
+- Practicing multiple UI layouts through three sections in `/lib`:
+  - `Ui_1`
+  - `Ui_2`
+  - `Ui_3`
 
 ## 📱 UI
 
