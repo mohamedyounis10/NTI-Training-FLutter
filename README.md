@@ -1,16 +1,13 @@
-# session_5
+# NTI Flutter Training – UI Design Practice
 
-A new Flutter project.
+This project is part of a training program provided by the National Telecommunication Institute (NTI) focused on **Flutter development**.  
+It contains practical exercises and UI implementations based on professional design references.
 
-## Getting Started
+## 📚 Description
 
-This project is a starting point for a Flutter application.
+This repository includes my Flutter training exercises under NTI supervision, where I focused on:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Practicing UI components in Flutter
+- Converting ready-made UI designs into working code
+- Understanding layout widgets (Row, Column, Stack, Container, etc.)
+- Handling basic form inputs and user interface styling
